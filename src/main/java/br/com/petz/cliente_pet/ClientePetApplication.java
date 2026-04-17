@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @SpringBootApplication
 @RestController
-@RequestMapping("/")
+@RequestMapping("/ ")
 
 public class ClientePetApplication {
 	
